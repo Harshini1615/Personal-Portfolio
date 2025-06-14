@@ -117,18 +117,18 @@
       <h2>Projects</h2>
       
       <article>
-        <h3>Project One: Task Tracker</h3>
-        <p>A simple web app to track your daily tasks. Built with HTML, CSS, and JavaScript. Includes features like add/edit/delete and local storage.</p>
+        <h3>Project One: Personal Portfolio Website</h3>
+        <p>This project features an About Me section, Projects list, and Contact form. Built using HTML5 semantic tags and styled with basic CSS.</p>
       </article>
 
       <article>
-        <h3>Project Two: Weather App</h3>
-        <p>This app fetches real-time weather data using an API and displays it with icons and temperature. Made using HTML, CSS, and vanilla JavaScript.</p>
+        <h3>Project Two:  Product Landing Page</h3>
+        <p>A responsive product page with a headline, description, call-to-action, and form. Utilizes the CSS box model and includes various input types for better accessibility.</p>
       </article>
 
       <article>
-        <h3>Project Three: Personal Blog</h3>
-        <p>A static blog website using semantic HTML and styled with basic CSS. It includes blog posts, author bio, and a comment section (non-functional).</p>
+        <h3>Project Three: Blog Post Template</h3>
+        <p>A semantic and structured blog post layout with title, author, date, content, and a comments section. Includes basic CSS styling for readability.</p>
       </article>
     </section>
 
